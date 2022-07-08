@@ -1,0 +1,23 @@
+[
+  {
+    "recommend_id": 1,
+    "recommend_title": "これからJavaを学びたい人へ",
+    "user_id": "0001",
+    "good": 100,
+    "tag": "Java"
+  },
+  {
+    "recommend_id": 2,
+    "recommend_title": "C#ならこれをよめ",
+    "user_id": "0002",
+    "good": 50,
+    "tag": "C#"
+  },
+  {
+    "recommend_id": 3,
+    "recommend_title": "SwiftUIの開発で役に立った本",
+    "user_id": "0003",
+    "good": 75,
+    "tag": "SwiftUI"
+  }
+]
