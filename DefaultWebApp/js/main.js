@@ -5,3 +5,12 @@ const app = Vue.createApp({
 // options
 })
 app.mount('#app')
+
+
+import employee from './json/employee.json'
+
+export default {
+  data: () => {
+     employee: employee
+  }
+}
