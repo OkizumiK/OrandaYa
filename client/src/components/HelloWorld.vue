@@ -1,19 +1,24 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
-{{ recommend_Headers }}
+    <h1 class="titleCss">{{ msg }}</h1>
+	<table class="employeeList">
+	<tr v-for="value in employees" :key="value.employeeID">
+		<td>{{value.lastName}} {{value.firstName}}</td>
+		<td>{{value.department}}</td>
+	</tr>
+	</table>
   </div>
 </template>
 
 <script>
-import recommend_Headers from '../assets/Recommend_Header.json'
+import employees from '../assets/employees.json'
 export default {
   name: 'HelloWorld',
     data () {
       return {
-        msg: 'Welcome to Your Vue.js App',
+        msg: '社内図書館',
         test: 'test',
-        recommend_Headers: recommend_Headers
+        employees: employees
       }
     },
 
