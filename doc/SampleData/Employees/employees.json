@@ -9,7 +9,8 @@
 		"joinYear":"1988",
 		"department":"DX&イノベーションセンター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -22,7 +23,8 @@
 		"joinYear":"2001",
 		"department":"DX&イノベーションセンター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -35,7 +37,8 @@
 		"joinYear":"1980",
 		"department":"DX&イノベーションセンター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -48,7 +51,8 @@
 		"joinYear":"1984",
 		"department":"DX&イノベーションセンター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -61,7 +65,8 @@
 		"joinYear":"2017",
 		"department":"DX&イノベーションセンター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -74,7 +79,8 @@
 		"joinYear":"1990",
 		"department":"DX&イノベーションセンター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -87,7 +93,8 @@
 		"joinYear":"1977",
 		"department":"DX&イノベーションセンター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -100,7 +107,8 @@
 		"joinYear":"1978",
 		"department":"DX&イノベーションセンター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -113,7 +121,8 @@
 		"joinYear":"2010",
 		"department":"DX&イノベーションセンター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -126,7 +135,8 @@
 		"joinYear":"1982",
 		"department":"DX&イノベーションセンター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -139,7 +149,8 @@
 		"joinYear":"1986",
 		"department":"IoXソリューション事業推進部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -152,7 +163,8 @@
 		"joinYear":"2005",
 		"department":"IoXソリューション事業推進部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -165,7 +177,8 @@
 		"joinYear":"2014",
 		"department":"IoXソリューション事業推進部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -178,7 +191,8 @@
 		"joinYear":"2006",
 		"department":"IoXソリューション事業推進部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -191,7 +205,8 @@
 		"joinYear":"2004",
 		"department":"IoXソリューション事業推進部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -204,7 +219,8 @@
 		"joinYear":"2020",
 		"department":"IoXソリューション事業推進部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -217,7 +233,8 @@
 		"joinYear":"1982",
 		"department":"IoXソリューション事業推進部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -230,7 +247,8 @@
 		"joinYear":"1996",
 		"department":"IoXソリューション事業推進部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -243,7 +261,8 @@
 		"joinYear":"2015",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -256,7 +275,8 @@
 		"joinYear":"1991",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -269,7 +289,8 @@
 		"joinYear":"1989",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -282,7 +303,8 @@
 		"joinYear":"2015",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -295,7 +317,8 @@
 		"joinYear":"1987",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -308,7 +331,8 @@
 		"joinYear":"2022",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -321,7 +345,8 @@
 		"joinYear":"1979",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -334,7 +359,8 @@
 		"joinYear":"2023",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -347,7 +373,8 @@
 		"joinYear":"1994",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -360,7 +387,8 @@
 		"joinYear":"1991",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -373,7 +401,8 @@
 		"joinYear":"2004",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -386,7 +415,8 @@
 		"joinYear":"2018",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -399,7 +429,8 @@
 		"joinYear":"2004",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -412,7 +443,8 @@
 		"joinYear":"1996",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -425,7 +457,8 @@
 		"joinYear":"2011",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -438,7 +471,8 @@
 		"joinYear":"2021",
 		"department":"ITインフラソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -451,7 +485,8 @@
 		"joinYear":"1995",
 		"department":"グローバルビジネス統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -464,7 +499,8 @@
 		"joinYear":"1999",
 		"department":"グローバルビジネス統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -477,7 +513,8 @@
 		"joinYear":"1989",
 		"department":"グローバルビジネス統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -490,7 +527,8 @@
 		"joinYear":"2007",
 		"department":"グローバルビジネス統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -503,7 +541,8 @@
 		"joinYear":"2006",
 		"department":"グローバルビジネス統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -516,7 +555,8 @@
 		"joinYear":"1980",
 		"department":"グローバルビジネス統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -529,7 +569,8 @@
 		"joinYear":"2011",
 		"department":"システム研究開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -542,7 +583,8 @@
 		"joinYear":"2006",
 		"department":"システム研究開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -555,7 +597,8 @@
 		"joinYear":"1988",
 		"department":"システム研究開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -568,7 +611,8 @@
 		"joinYear":"2006",
 		"department":"システム研究開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -581,7 +625,8 @@
 		"joinYear":"2022",
 		"department":"システム研究開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -594,7 +639,8 @@
 		"joinYear":"1985",
 		"department":"システム研究開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -607,7 +653,8 @@
 		"joinYear":"1987",
 		"department":"システム研究開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -620,7 +667,8 @@
 		"joinYear":"2001",
 		"department":"デジタルテクノロジー&ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -633,7 +681,8 @@
 		"joinYear":"1985",
 		"department":"デジタルテクノロジー&ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -646,7 +695,8 @@
 		"joinYear":"1977",
 		"department":"デジタルテクノロジー&ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -659,7 +709,8 @@
 		"joinYear":"2012",
 		"department":"デジタルテクノロジー&ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -672,7 +723,8 @@
 		"joinYear":"2023",
 		"department":"デジタルテクノロジー&ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -685,7 +737,8 @@
 		"joinYear":"1981",
 		"department":"デジタルテクノロジー&ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -698,7 +751,8 @@
 		"joinYear":"1999",
 		"department":"デジタルテクノロジー&ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -711,7 +765,8 @@
 		"joinYear":"2001",
 		"department":"デジタル製造業センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -724,7 +779,8 @@
 		"joinYear":"1985",
 		"department":"デジタル製造業センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -737,7 +793,8 @@
 		"joinYear":"1996",
 		"department":"デジタル製造業センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -750,7 +807,8 @@
 		"joinYear":"1999",
 		"department":"デジタル製造業センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -763,7 +821,8 @@
 		"joinYear":"2011",
 		"department":"デジタル製造業センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -776,7 +835,8 @@
 		"joinYear":"1997",
 		"department":"デジタル製造業センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -789,7 +849,8 @@
 		"joinYear":"1981",
 		"department":"テレコムソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -802,7 +863,8 @@
 		"joinYear":"1993",
 		"department":"テレコムソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -815,7 +877,8 @@
 		"joinYear":"2012",
 		"department":"テレコムソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -828,7 +891,8 @@
 		"joinYear":"1987",
 		"department":"テレコムソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -841,7 +905,8 @@
 		"joinYear":"2001",
 		"department":"テレコムソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -854,7 +919,8 @@
 		"joinYear":"1976",
 		"department":"営業統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -867,7 +933,8 @@
 		"joinYear":"2000",
 		"department":"営業統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -880,7 +947,8 @@
 		"joinYear":"2019",
 		"department":"営業統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -893,7 +961,8 @@
 		"joinYear":"2019",
 		"department":"営業統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -906,7 +975,8 @@
 		"joinYear":"1989",
 		"department":"営業統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -919,7 +989,8 @@
 		"joinYear":"1980",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -932,7 +1003,8 @@
 		"joinYear":"2011",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -945,7 +1017,8 @@
 		"joinYear":"2005",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -958,7 +1031,8 @@
 		"joinYear":"1981",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -971,7 +1045,8 @@
 		"joinYear":"2015",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -984,7 +1059,8 @@
 		"joinYear":"2016",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -997,7 +1073,8 @@
 		"joinYear":"1978",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1010,7 +1087,8 @@
 		"joinYear":"1983",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1023,7 +1101,8 @@
 		"joinYear":"2024",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1036,7 +1115,8 @@
 		"joinYear":"1996",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1049,7 +1129,8 @@
 		"joinYear":"1979",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1062,7 +1143,8 @@
 		"joinYear":"1996",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1075,7 +1157,8 @@
 		"joinYear":"1979",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1088,7 +1171,8 @@
 		"joinYear":"2002",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1101,7 +1185,8 @@
 		"joinYear":"1975",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1114,7 +1199,8 @@
 		"joinYear":"1993",
 		"department":"企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1127,7 +1213,8 @@
 		"joinYear":"2019",
 		"department":"技術統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1140,7 +1227,8 @@
 		"joinYear":"2009",
 		"department":"技術統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1153,7 +1241,8 @@
 		"joinYear":"1994",
 		"department":"技術統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1166,7 +1255,8 @@
 		"joinYear":"1997",
 		"department":"技術統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1179,7 +1269,8 @@
 		"joinYear":"1980",
 		"department":"技術統括部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1192,7 +1283,8 @@
 		"joinYear":"1996",
 		"department":"金融ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1205,7 +1297,8 @@
 		"joinYear":"1988",
 		"department":"金融ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1218,7 +1311,8 @@
 		"joinYear":"1983",
 		"department":"金融ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1231,7 +1325,8 @@
 		"joinYear":"1989",
 		"department":"金融ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1244,7 +1339,8 @@
 		"joinYear":"1985",
 		"department":"金融ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1257,7 +1353,8 @@
 		"joinYear":"2024",
 		"department":"金融ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1270,7 +1367,8 @@
 		"joinYear":"1986",
 		"department":"金融ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1283,7 +1381,8 @@
 		"joinYear":"2019",
 		"department":"金融ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1296,7 +1395,8 @@
 		"joinYear":"1981",
 		"department":"財務部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1309,7 +1409,8 @@
 		"joinYear":"1995",
 		"department":"財務部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1322,7 +1423,8 @@
 		"joinYear":"1976",
 		"department":"財務部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1335,7 +1437,8 @@
 		"joinYear":"1989",
 		"department":"財務部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1348,7 +1451,8 @@
 		"joinYear":"2001",
 		"department":"財務部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1361,7 +1465,8 @@
 		"joinYear":"1981",
 		"department":"財務部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1374,7 +1479,8 @@
 		"joinYear":"2010",
 		"department":"財務部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1387,7 +1493,8 @@
 		"joinYear":"1979",
 		"department":"産業ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1400,7 +1507,8 @@
 		"joinYear":"1988",
 		"department":"産業ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1413,7 +1521,8 @@
 		"joinYear":"2008",
 		"department":"産業ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1426,7 +1535,8 @@
 		"joinYear":"1984",
 		"department":"産業ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1439,7 +1549,8 @@
 		"joinYear":"2006",
 		"department":"産業ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1452,7 +1563,8 @@
 		"joinYear":"1989",
 		"department":"産業ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1465,7 +1577,8 @@
 		"joinYear":"1991",
 		"department":"産業ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1478,7 +1591,8 @@
 		"joinYear":"2007",
 		"department":"産業ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1491,7 +1605,8 @@
 		"joinYear":"2023",
 		"department":"産業ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1504,7 +1619,8 @@
 		"joinYear":"2024",
 		"department":"産業ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1517,7 +1633,8 @@
 		"joinYear":"1994",
 		"department":"産業ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1530,7 +1647,8 @@
 		"joinYear":"1997",
 		"department":"産業ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1543,7 +1661,8 @@
 		"joinYear":"2021",
 		"department":"社会公共ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1556,7 +1675,8 @@
 		"joinYear":"2003",
 		"department":"社会公共ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1569,7 +1689,8 @@
 		"joinYear":"2003",
 		"department":"社会公共ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1582,7 +1703,8 @@
 		"joinYear":"1998",
 		"department":"社会公共ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1595,7 +1717,8 @@
 		"joinYear":"1988",
 		"department":"社会公共ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1608,7 +1731,8 @@
 		"joinYear":"2017",
 		"department":"社会公共ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1621,7 +1745,8 @@
 		"joinYear":"1997",
 		"department":"社会公共ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1634,7 +1759,8 @@
 		"joinYear":"1981",
 		"department":"社会公共ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1647,7 +1773,8 @@
 		"joinYear":"2021",
 		"department":"社会公共ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1660,7 +1787,8 @@
 		"joinYear":"2024",
 		"department":"情報システム部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1673,7 +1801,8 @@
 		"joinYear":"2004",
 		"department":"情報システム部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1686,7 +1815,8 @@
 		"joinYear":"1985",
 		"department":"情報システム部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1699,7 +1829,8 @@
 		"joinYear":"2019",
 		"department":"情報システム部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1712,7 +1843,8 @@
 		"joinYear":"2001",
 		"department":"情報システム部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1725,7 +1857,8 @@
 		"joinYear":"2024",
 		"department":"情報システム部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1738,7 +1871,8 @@
 		"joinYear":"2016",
 		"department":"情報システム部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1751,7 +1885,8 @@
 		"joinYear":"2008",
 		"department":"情報システム部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1764,7 +1899,8 @@
 		"joinYear":"1993",
 		"department":"情報システム部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1777,7 +1913,8 @@
 		"joinYear":"1998",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1790,7 +1927,8 @@
 		"joinYear":"1981",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1803,7 +1941,8 @@
 		"joinYear":"1997",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1816,7 +1955,8 @@
 		"joinYear":"1985",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1829,7 +1969,8 @@
 		"joinYear":"2008",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1842,7 +1983,8 @@
 		"joinYear":"2012",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1855,7 +1997,8 @@
 		"joinYear":"1975",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1868,7 +2011,8 @@
 		"joinYear":"2016",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1881,7 +2025,8 @@
 		"joinYear":"2021",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1894,7 +2039,8 @@
 		"joinYear":"2019",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1907,7 +2053,8 @@
 		"joinYear":"2023",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1920,7 +2067,8 @@
 		"joinYear":"1991",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1933,7 +2081,8 @@
 		"joinYear":"1993",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1946,7 +2095,8 @@
 		"joinYear":"1987",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1959,7 +2109,8 @@
 		"joinYear":"2002",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1972,7 +2123,8 @@
 		"joinYear":"2019",
 		"department":"情報セキュリティ部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1985,7 +2137,8 @@
 		"joinYear":"2006",
 		"department":"人事開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -1998,7 +2151,8 @@
 		"joinYear":"1983",
 		"department":"人事開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2011,7 +2165,8 @@
 		"joinYear":"2005",
 		"department":"人事開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2024,7 +2179,8 @@
 		"joinYear":"2024",
 		"department":"人事開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2037,7 +2193,8 @@
 		"joinYear":"2002",
 		"department":"人事開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2050,7 +2207,8 @@
 		"joinYear":"1977",
 		"department":"人事開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2063,7 +2221,8 @@
 		"joinYear":"2015",
 		"department":"人事開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2076,7 +2235,8 @@
 		"joinYear":"1981",
 		"department":"人事開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2089,7 +2249,8 @@
 		"joinYear":"1990",
 		"department":"人事開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2102,7 +2263,8 @@
 		"joinYear":"2010",
 		"department":"人事開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2115,7 +2277,8 @@
 		"joinYear":"2020",
 		"department":"人事開発センター",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2128,7 +2291,8 @@
 		"joinYear":"1993",
 		"department":"人事企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2141,7 +2305,8 @@
 		"joinYear":"1998",
 		"department":"人事企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2154,7 +2319,8 @@
 		"joinYear":"1989",
 		"department":"人事企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2167,7 +2333,8 @@
 		"joinYear":"2001",
 		"department":"人事企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2180,7 +2347,8 @@
 		"joinYear":"1975",
 		"department":"人事企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2193,7 +2361,8 @@
 		"joinYear":"2016",
 		"department":"人事企画部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2206,7 +2375,8 @@
 		"joinYear":"2024",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2219,7 +2389,8 @@
 		"joinYear":"1991",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2232,7 +2403,8 @@
 		"joinYear":"1997",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2245,7 +2417,8 @@
 		"joinYear":"2013",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2258,7 +2431,8 @@
 		"joinYear":"2020",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2271,7 +2445,8 @@
 		"joinYear":"1999",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2284,7 +2459,8 @@
 		"joinYear":"1983",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2297,7 +2473,8 @@
 		"joinYear":"2006",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#RPA","#JavaScript"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2310,7 +2487,8 @@
 		"joinYear":"2024",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2323,7 +2501,8 @@
 		"joinYear":"1980",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2336,7 +2515,8 @@
 		"joinYear":"1987",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2349,7 +2529,8 @@
 		"joinYear":"1982",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Java","##C"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2362,7 +2543,8 @@
 		"joinYear":"2015",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2375,7 +2557,8 @@
 		"joinYear":"1982",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2388,7 +2571,8 @@
 		"joinYear":"2005",
 		"department":"生産技術部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2401,7 +2585,8 @@
 		"joinYear":"2002",
 		"department":"鉄鋼ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2414,7 +2599,8 @@
 		"joinYear":"2009",
 		"department":"鉄鋼ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["##C","#インフラ"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2427,7 +2613,8 @@
 		"joinYear":"1985",
 		"department":"鉄鋼ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2440,7 +2627,8 @@
 		"joinYear":"2006",
 		"department":"鉄鋼ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2453,7 +2641,8 @@
 		"joinYear":"1987",
 		"department":"鉄鋼ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2466,7 +2655,8 @@
 		"joinYear":"1992",
 		"department":"鉄鋼ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2479,7 +2669,8 @@
 		"joinYear":"1977",
 		"department":"鉄鋼ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2492,7 +2683,8 @@
 		"joinYear":"1977",
 		"department":"鉄鋼ソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2505,7 +2697,8 @@
 		"joinYear":"1988",
 		"department":"流通・サービスソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#インフラ","#C言語"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2518,7 +2711,8 @@
 		"joinYear":"1983",
 		"department":"流通・サービスソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Webアプリケーション","#RPA"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2531,7 +2725,8 @@
 		"joinYear":"1978",
 		"department":"流通・サービスソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#Lisp","#AWS"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2544,7 +2739,8 @@
 		"joinYear":"2002",
 		"department":"流通・サービスソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#DB","#Java"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2557,7 +2753,8 @@
 		"joinYear":"1990",
 		"department":"流通・サービスソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#C言語","#DB"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2570,7 +2767,8 @@
 		"joinYear":"1988",
 		"department":"流通・サービスソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#AWS","#Webアプリケーション"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2583,7 +2781,8 @@
 		"joinYear":"1981",
 		"department":"流通・サービスソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	},
 	{
@@ -2596,7 +2795,8 @@
 		"joinYear":"1993",
 		"department":"流通・サービスソリューション事業部",
 		"biography":"",
-		"bookAlready":"",
+		"tag":["#JavaScript","#Lisp"],
+		"bookAlready":[],
 		"comment":""
 	}
 ]
