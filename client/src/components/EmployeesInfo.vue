@@ -2,8 +2,8 @@
 <template>
   <h1 class="titleCss">{{ msg }}</h1>
 
-  <div class="employeesInfo"  v-for="value in employees" :key="value.employeeID">
 	<table class="employeeList">
+    <template  v-for="value in employees" :key="value.employeeID">
       <tr align="left">
         <th>{{value.lastName}} {{value.firstName}}</th>  
         <td>{{" : " + value.department}}</td>
@@ -12,11 +12,11 @@
         <td rowspan=2><img class="bookImage" :src="value.bookImage[2]"></td>
       </tr>
       <tr border="10px">
-        <td align="left">{{value.joinYear + " 年入社"}}</td>
-        <td class="tag">{{value.tag[0]}} {{value.tag[1]}}</td>
+        <td align="left" class="employeeEndOnTable">{{value.joinYear + " 年入社"}}</td>
+        <td class="employeeEndOnTable" align="right"><a class="tag">{{value.tag[0]}} {{value.tag[1]}}</a></td>
       </tr>
+    </template>
 	</table>
-  </div>
 </template>
 
 <script>
@@ -50,8 +50,18 @@ li {
 a {
   color: #42b983;
 }
+table {
+    border-collapse: collapse;
+}
 .tag {
   color:#F00;
   text-align: "right" 
+}
+.employeeList {
+  margin-left: auto;
+  margin-right: auto;
+}
+.employeeEndOnTable {
+  border-bottom: 1px solid black;
 }
 </style>
