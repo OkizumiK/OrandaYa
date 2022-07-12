@@ -1,9 +1,9 @@
 <template>
   <EmployeesInfo></EmployeesInfo>
-
 </template>
 
 <script>
+//import HelloWorld from './components/HelloWorld.vue'
 import EmployeesInfo from './components/EmployeesInfo.vue'
 // import sample from './assets/employee.json'
 import recommend_Headers from './assets/Recommend_Header.json'
@@ -17,7 +17,8 @@ export default {
       }
   },
   components: {
-    EmployeesInfo
+    EmployeesInfo,
+  //  HelloWorld
   }
 }
 </script>

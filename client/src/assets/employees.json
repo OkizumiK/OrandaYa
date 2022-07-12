@@ -11,6 +11,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_03.jpg","/img/RPA_03.jpg","/img/Lisp_02.jpg"],
 		"comment":""
 	},
 	{
@@ -25,6 +26,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_01.jpg","/img/DB_03_.jpg","/img/DB_02_.jpg"],
 		"comment":""
 	},
 	{
@@ -39,6 +41,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_03.jpg","/img/JavaScript_02.jpg","/img/RPA_03.jpg"],
 		"comment":""
 	},
 	{
@@ -53,6 +56,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_01.jpg","/img/RPA_02.jpg","/img/Web_01.jpg"],
 		"comment":""
 	},
 	{
@@ -67,6 +71,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_03.jpg","/img/C_Origin_02.jpg","/img/DB_01_.jpg"],
 		"comment":""
 	},
 	{
@@ -81,6 +86,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_02.jpg","/img/Lisp_03.jpg","/img/JavaScript_01.jpg"],
 		"comment":""
 	},
 	{
@@ -95,6 +101,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_03.jpg","/img/AWS_02.jpg","/img/JavaScript_03.jpg"],
 		"comment":""
 	},
 	{
@@ -109,6 +116,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_03_.jpg","/img/Java_01.jpg","/img/Web_01.jpg"],
 		"comment":""
 	},
 	{
@@ -123,6 +131,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_01.jpg","/img/DB_02_.jpg","/img/C_Sharp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -137,6 +146,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_03.jpg","/img/RPA_01.jpg","/img/Web_02.jpg"],
 		"comment":""
 	},
 	{
@@ -151,6 +161,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_03.jpg","/img/JavaScript_03.jpg","/img/Java_02.jpg"],
 		"comment":""
 	},
 	{
@@ -165,6 +176,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_03.jpg","/img/Lisp_01.jpg","/img/Infrastructure_02.jpg"],
 		"comment":""
 	},
 	{
@@ -179,6 +191,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_03_.jpg","/img/Java_02.jpg","/img/C_Origin_03.jpg"],
 		"comment":""
 	},
 	{
@@ -193,6 +206,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_01.jpg","/img/Lisp_02.jpg","/img/JavaScript_02.jpg"],
 		"comment":""
 	},
 	{
@@ -207,6 +221,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_01.jpg","/img/AWS_01.jpg","/img/DB_03_.jpg"],
 		"comment":""
 	},
 	{
@@ -221,6 +236,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_01.jpg","/img/Lisp_01.jpg","/img/Java_02.jpg"],
 		"comment":""
 	},
 	{
@@ -235,6 +251,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_01.jpg","/img/AWS_02.jpg","/img/DB_02_.jpg"],
 		"comment":""
 	},
 	{
@@ -249,6 +266,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_03.jpg","/img/Infrastructure_03.jpg","/img/C_Sharp_02.jpg"],
 		"comment":""
 	},
 	{
@@ -263,6 +281,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_03.jpg","/img/RPA_02.jpg","/img/JavaScript_03.jpg"],
 		"comment":""
 	},
 	{
@@ -277,6 +296,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_02.jpg","/img/Infrastructure_03.jpg","/img/AWS_02.jpg"],
 		"comment":""
 	},
 	{
@@ -291,6 +311,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_03.jpg","/img/JavaScript_01.jpg","/img/JavaScript_02.jpg"],
 		"comment":""
 	},
 	{
@@ -305,6 +326,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_02.jpg","/img/DB_01_.jpg","/img/C_Origin_02.jpg"],
 		"comment":""
 	},
 	{
@@ -319,6 +341,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_01_.jpg","/img/Java_01.jpg","/img/DB_03_.jpg"],
 		"comment":""
 	},
 	{
@@ -333,6 +356,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_01.jpg","/img/AWS_02.jpg","/img/Lisp_03.jpg"],
 		"comment":""
 	},
 	{
@@ -347,6 +371,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_01.jpg","/img/Infrastructure_01.jpg","/img/C_Origin_03.jpg"],
 		"comment":""
 	},
 	{
@@ -361,6 +386,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_03.jpg","/img/Web_02.jpg","/img/C_Origin_03.jpg"],
 		"comment":""
 	},
 	{
@@ -375,6 +401,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_03.jpg","/img/DB_03_.jpg","/img/Web_02.jpg"],
 		"comment":""
 	},
 	{
@@ -389,6 +416,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_01.jpg","/img/RPA_03.jpg","/img/DB_01_.jpg"],
 		"comment":""
 	},
 	{
@@ -403,6 +431,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_02.jpg","/img/DB_01_.jpg","/img/C_Sharp_02.jpg"],
 		"comment":""
 	},
 	{
@@ -417,6 +446,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_03_.jpg","/img/Java_03.jpg","/img/Web_01.jpg"],
 		"comment":""
 	},
 	{
@@ -431,6 +461,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_01.jpg","/img/C_Origin_02.jpg","/img/DB_02_.jpg"],
 		"comment":""
 	},
 	{
@@ -445,6 +476,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_02_.jpg","/img/Java_03.jpg","/img/JavaScript_03.jpg"],
 		"comment":""
 	},
 	{
@@ -459,6 +491,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_01.jpg","/img/Web_03.jpg","/img/Infrastructure_01.jpg"],
 		"comment":""
 	},
 	{
@@ -473,6 +506,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_03.jpg","/img/C_Origin_03.jpg","/img/RPA_01.jpg"],
 		"comment":""
 	},
 	{
@@ -487,6 +521,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_03.jpg","/img/Infrastructure_03.jpg","/img/Infrastructure_03.jpg"],
 		"comment":""
 	},
 	{
@@ -501,6 +536,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_03.jpg","/img/RPA_02.jpg","/img/C_Origin_03.jpg"],
 		"comment":""
 	},
 	{
@@ -515,6 +551,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_01.jpg","/img/Infrastructure_01.jpg","/img/Infrastructure_02.jpg"],
 		"comment":""
 	},
 	{
@@ -529,6 +566,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_02.jpg","/img/C_Sharp_03.jpg","/img/C_Origin_03.jpg"],
 		"comment":""
 	},
 	{
@@ -543,6 +581,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_01.jpg","/img/C_Sharp_02.jpg","/img/C_Origin_01.jpg"],
 		"comment":""
 	},
 	{
@@ -557,6 +596,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_03.jpg","/img/Lisp_02.jpg","/img/Java_01.jpg"],
 		"comment":""
 	},
 	{
@@ -571,6 +611,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_02.jpg","/img/C_Origin_03.jpg","/img/Infrastructure_02.jpg"],
 		"comment":""
 	},
 	{
@@ -585,6 +626,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_03.jpg","/img/AWS_03.jpg","/img/Lisp_02.jpg"],
 		"comment":""
 	},
 	{
@@ -599,6 +641,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_02.jpg","/img/DB_01_.jpg","/img/JavaScript_01.jpg"],
 		"comment":""
 	},
 	{
@@ -613,6 +656,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_02_.jpg","/img/Java_02.jpg","/img/Lisp_03.jpg"],
 		"comment":""
 	},
 	{
@@ -627,6 +671,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_02.jpg","/img/C_Sharp_02.jpg","/img/RPA_02.jpg"],
 		"comment":""
 	},
 	{
@@ -641,6 +686,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_01_.jpg","/img/Java_02.jpg","/img/Java_02.jpg"],
 		"comment":""
 	},
 	{
@@ -655,6 +701,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_01.jpg","/img/C_Sharp_03.jpg","/img/Web_03.jpg"],
 		"comment":""
 	},
 	{
@@ -669,6 +716,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_03_.jpg","/img/Java_02.jpg","/img/Web_03.jpg"],
 		"comment":""
 	},
 	{
@@ -683,6 +731,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_01.jpg","/img/Infrastructure_01.jpg","/img/Java_02.jpg"],
 		"comment":""
 	},
 	{
@@ -697,6 +746,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_01.jpg","/img/JavaScript_02.jpg","/img/Infrastructure_02.jpg"],
 		"comment":""
 	},
 	{
@@ -711,6 +761,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_01.jpg","/img/C_Origin_01.jpg","/img/AWS_03.jpg"],
 		"comment":""
 	},
 	{
@@ -725,6 +776,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_02.jpg","/img/RPA_02.jpg","/img/Lisp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -739,6 +791,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_03.jpg","/img/Web_03.jpg","/img/AWS_02.jpg"],
 		"comment":""
 	},
 	{
@@ -753,6 +806,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_02_.jpg","/img/Java_01.jpg","/img/JavaScript_03.jpg"],
 		"comment":""
 	},
 	{
@@ -767,6 +821,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_03.jpg","/img/Lisp_03.jpg","/img/C_Origin_01.jpg"],
 		"comment":""
 	},
 	{
@@ -781,6 +836,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_01_.jpg","/img/Java_03.jpg","/img/RPA_03.jpg"],
 		"comment":""
 	},
 	{
@@ -795,6 +851,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_02.jpg","/img/Lisp_01.jpg","/img/Lisp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -809,6 +866,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_01.jpg","/img/C_Origin_01.jpg","/img/DB_03_.jpg"],
 		"comment":""
 	},
 	{
@@ -823,6 +881,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_03.jpg","/img/C_Sharp_03.jpg","/img/Infrastructure_03.jpg"],
 		"comment":""
 	},
 	{
@@ -837,6 +896,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_03.jpg","/img/Lisp_01.jpg","/img/Web_02.jpg"],
 		"comment":""
 	},
 	{
@@ -851,6 +911,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_02.jpg","/img/DB_01_.jpg","/img/JavaScript_02.jpg"],
 		"comment":""
 	},
 	{
@@ -865,6 +926,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_03.jpg","/img/JavaScript_02.jpg","/img/C_Origin_02.jpg"],
 		"comment":""
 	},
 	{
@@ -879,6 +941,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_01.jpg","/img/C_Origin_01.jpg","/img/Java_03.jpg"],
 		"comment":""
 	},
 	{
@@ -893,6 +956,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_03_.jpg","/img/Java_02.jpg","/img/C_Sharp_03.jpg"],
 		"comment":""
 	},
 	{
@@ -907,6 +971,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_03.jpg","/img/JavaScript_02.jpg","/img/C_Origin_03.jpg"],
 		"comment":""
 	},
 	{
@@ -921,6 +986,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_02.jpg","/img/JavaScript_02.jpg","/img/JavaScript_02.jpg"],
 		"comment":""
 	},
 	{
@@ -935,6 +1001,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_03.jpg","/img/C_Sharp_02.jpg","/img/Infrastructure_02.jpg"],
 		"comment":""
 	},
 	{
@@ -949,6 +1016,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_01.jpg","/img/C_Origin_03.jpg","/img/Java_01.jpg"],
 		"comment":""
 	},
 	{
@@ -963,6 +1031,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_03.jpg","/img/C_Origin_03.jpg","/img/C_Sharp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -977,6 +1046,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_02.jpg","/img/JavaScript_01.jpg","/img/Java_03.jpg"],
 		"comment":""
 	},
 	{
@@ -991,6 +1061,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_02.jpg","/img/RPA_03.jpg","/img/C_Origin_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1005,6 +1076,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_01.jpg","/img/C_Sharp_02.jpg","/img/Lisp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1019,6 +1091,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_02.jpg","/img/JavaScript_03.jpg","/img/Web_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1033,6 +1106,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_02.jpg","/img/AWS_02.jpg","/img/RPA_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1047,6 +1121,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_03.jpg","/img/C_Sharp_03.jpg","/img/Infrastructure_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1061,6 +1136,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_01.jpg","/img/RPA_03.jpg","/img/Infrastructure_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1075,6 +1151,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_02.jpg","/img/AWS_01.jpg","/img/C_Origin_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1089,6 +1166,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_01.jpg","/img/JavaScript_03.jpg","/img/AWS_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1103,6 +1181,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_03.jpg","/img/Infrastructure_01.jpg","/img/Web_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1117,6 +1196,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_01.jpg","/img/RPA_01.jpg","/img/Lisp_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1131,6 +1211,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_01.jpg","/img/DB_03_.jpg","/img/Web_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1145,6 +1226,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_02.jpg","/img/RPA_03.jpg","/img/RPA_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1159,6 +1241,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_03.jpg","/img/C_Sharp_01.jpg","/img/Web_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1173,6 +1256,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_02.jpg","/img/JavaScript_03.jpg","/img/DB_03_.jpg"],
 		"comment":""
 	},
 	{
@@ -1187,6 +1271,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_03.jpg","/img/AWS_01.jpg","/img/AWS_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1201,6 +1286,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_03_.jpg","/img/Java_01.jpg","/img/JavaScript_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1215,6 +1301,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_03.jpg","/img/Lisp_03.jpg","/img/C_Origin_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1229,6 +1316,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_03.jpg","/img/AWS_01.jpg","/img/Java_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1243,6 +1331,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_01.jpg","/img/Infrastructure_02.jpg","/img/AWS_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1257,6 +1346,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_01.jpg","/img/Infrastructure_03.jpg","/img/Lisp_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1271,6 +1361,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_02.jpg","/img/Infrastructure_03.jpg","/img/DB_01_.jpg"],
 		"comment":""
 	},
 	{
@@ -1285,6 +1376,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_02.jpg","/img/Web_01.jpg","/img/DB_02_.jpg"],
 		"comment":""
 	},
 	{
@@ -1299,6 +1391,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_02.jpg","/img/Web_03.jpg","/img/C_Sharp_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1313,6 +1406,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_03.jpg","/img/C_Origin_01.jpg","/img/Lisp_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1327,6 +1421,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_03_.jpg","/img/Java_03.jpg","/img/DB_02_.jpg"],
 		"comment":""
 	},
 	{
@@ -1341,6 +1436,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_01.jpg","/img/DB_02_.jpg","/img/C_Sharp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1355,6 +1451,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_01.jpg","/img/RPA_03.jpg","/img/Infrastructure_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1369,6 +1466,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_03.jpg","/img/AWS_01.jpg","/img/RPA_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1383,6 +1481,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_02.jpg","/img/C_Origin_02.jpg","/img/Web_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1397,6 +1496,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_01.jpg","/img/C_Sharp_03.jpg","/img/Java_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1411,6 +1511,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_01.jpg","/img/JavaScript_03.jpg","/img/C_Origin_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1425,6 +1526,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_03.jpg","/img/JavaScript_01.jpg","/img/Infrastructure_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1439,6 +1541,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_01.jpg","/img/JavaScript_03.jpg","/img/C_Sharp_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1453,6 +1556,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_03.jpg","/img/AWS_02.jpg","/img/C_Origin_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1467,6 +1571,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_03.jpg","/img/Web_03.jpg","/img/C_Origin_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1481,6 +1586,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_02.jpg","/img/Web_01.jpg","/img/DB_03_.jpg"],
 		"comment":""
 	},
 	{
@@ -1495,6 +1601,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_01.jpg","/img/Lisp_01.jpg","/img/C_Sharp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1509,6 +1616,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_02.jpg","/img/C_Origin_01.jpg","/img/DB_02_.jpg"],
 		"comment":""
 	},
 	{
@@ -1523,6 +1631,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_03_.jpg","/img/Java_03.jpg","/img/JavaScript_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1537,6 +1646,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_02.jpg","/img/JavaScript_03.jpg","/img/JavaScript_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1551,6 +1661,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_02.jpg","/img/JavaScript_01.jpg","/img/AWS_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1565,6 +1676,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_03.jpg","/img/C_Origin_01.jpg","/img/DB_02_.jpg"],
 		"comment":""
 	},
 	{
@@ -1579,6 +1691,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_02.jpg","/img/DB_02_.jpg","/img/Infrastructure_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1593,6 +1706,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_03_.jpg","/img/Java_03.jpg","/img/RPA_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1607,6 +1721,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_03.jpg","/img/DB_02_.jpg","/img/C_Sharp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1621,6 +1736,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_03.jpg","/img/RPA_02.jpg","/img/C_Sharp_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1635,6 +1751,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_01.jpg","/img/C_Origin_02.jpg","/img/C_Origin_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1649,6 +1766,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_02.jpg","/img/AWS_02.jpg","/img/RPA_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1663,6 +1781,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_01_.jpg","/img/Java_02.jpg","/img/RPA_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1677,6 +1796,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_01.jpg","/img/RPA_01.jpg","/img/Infrastructure_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1691,6 +1811,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_01.jpg","/img/Infrastructure_01.jpg","/img/RPA_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1705,6 +1826,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_01.jpg","/img/JavaScript_03.jpg","/img/C_Sharp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1719,6 +1841,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_02_.jpg","/img/Java_02.jpg","/img/Lisp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1733,6 +1856,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_03.jpg","/img/C_Origin_02.jpg","/img/AWS_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1747,6 +1871,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_03.jpg","/img/JavaScript_03.jpg","/img/AWS_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1761,6 +1886,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_02.jpg","/img/Infrastructure_01.jpg","/img/Java_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1775,6 +1901,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_02.jpg","/img/RPA_01.jpg","/img/C_Origin_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1789,6 +1916,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_02.jpg","/img/JavaScript_02.jpg","/img/C_Origin_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1803,6 +1931,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_02.jpg","/img/C_Sharp_01.jpg","/img/C_Sharp_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1817,6 +1946,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_02.jpg","/img/C_Sharp_02.jpg","/img/C_Sharp_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1831,6 +1961,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_02.jpg","/img/JavaScript_03.jpg","/img/JavaScript_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1845,6 +1976,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_03.jpg","/img/Infrastructure_02.jpg","/img/Java_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1859,6 +1991,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_01.jpg","/img/C_Sharp_03.jpg","/img/Lisp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1873,6 +2006,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_01.jpg","/img/DB_02_.jpg","/img/C_Sharp_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1887,6 +2021,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_03.jpg","/img/Web_03.jpg","/img/JavaScript_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1901,6 +2036,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_03.jpg","/img/C_Origin_01.jpg","/img/JavaScript_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1915,6 +2051,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_02.jpg","/img/AWS_02.jpg","/img/RPA_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1929,6 +2066,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_02.jpg","/img/JavaScript_01.jpg","/img/Java_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1943,6 +2081,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_01.jpg","/img/C_Sharp_03.jpg","/img/Web_02.jpg"],
 		"comment":""
 	},
 	{
@@ -1957,6 +2096,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_02.jpg","/img/RPA_02.jpg","/img/JavaScript_03.jpg"],
 		"comment":""
 	},
 	{
@@ -1971,6 +2111,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_02.jpg","/img/RPA_02.jpg","/img/Lisp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1985,6 +2126,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_01.jpg","/img/DB_02_.jpg","/img/Java_01.jpg"],
 		"comment":""
 	},
 	{
@@ -1999,6 +2141,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_02_.jpg","/img/Java_03.jpg","/img/Java_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2013,6 +2156,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_03.jpg","/img/Web_03.jpg","/img/Web_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2027,6 +2171,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_01.jpg","/img/C_Origin_01.jpg","/img/Java_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2041,6 +2186,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_03.jpg","/img/Web_02.jpg","/img/JavaScript_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2055,6 +2201,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_01.jpg","/img/Web_02.jpg","/img/Java_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2069,6 +2216,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_01.jpg","/img/DB_02_.jpg","/img/RPA_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2083,6 +2231,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_01.jpg","/img/Infrastructure_02.jpg","/img/C_Sharp_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2097,6 +2246,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_03.jpg","/img/RPA_01.jpg","/img/C_Sharp_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2111,6 +2261,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_01.jpg","/img/C_Origin_03.jpg","/img/Java_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2125,6 +2276,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_03.jpg","/img/Web_01.jpg","/img/AWS_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2139,6 +2291,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_03.jpg","/img/JavaScript_01.jpg","/img/JavaScript_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2153,6 +2306,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_01.jpg","/img/C_Sharp_02.jpg","/img/C_Origin_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2167,6 +2321,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_01.jpg","/img/JavaScript_01.jpg","/img/DB_03_.jpg"],
 		"comment":""
 	},
 	{
@@ -2181,6 +2336,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_02.jpg","/img/C_Origin_01.jpg","/img/Lisp_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2195,6 +2351,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_01.jpg","/img/C_Sharp_02.jpg","/img/DB_03_.jpg"],
 		"comment":""
 	},
 	{
@@ -2209,6 +2366,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_03.jpg","/img/RPA_02.jpg","/img/DB_01_.jpg"],
 		"comment":""
 	},
 	{
@@ -2223,6 +2381,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_02.jpg","/img/AWS_01.jpg","/img/AWS_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2237,6 +2396,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_03.jpg","/img/Web_02.jpg","/img/RPA_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2251,6 +2411,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_01.jpg","/img/Infrastructure_01.jpg","/img/Web_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2265,6 +2426,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_03.jpg","/img/C_Origin_01.jpg","/img/JavaScript_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2279,6 +2441,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_01.jpg","/img/Infrastructure_02.jpg","/img/Java_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2293,6 +2456,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_02.jpg","/img/DB_03_.jpg","/img/C_Sharp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2307,6 +2471,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_01.jpg","/img/Web_01.jpg","/img/Lisp_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2321,6 +2486,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_02.jpg","/img/Lisp_01.jpg","/img/RPA_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2335,6 +2501,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_01.jpg","/img/RPA_02.jpg","/img/C_Origin_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2349,6 +2516,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_01.jpg","/img/Infrastructure_01.jpg","/img/Web_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2363,6 +2531,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_03.jpg","/img/C_Sharp_03.jpg","/img/Infrastructure_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2377,6 +2546,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_03.jpg","/img/AWS_01.jpg","/img/Lisp_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2391,6 +2561,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_03.jpg","/img/Infrastructure_02.jpg","/img/JavaScript_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2405,6 +2576,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_02.jpg","/img/DB_03_.jpg","/img/Java_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2419,6 +2591,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_03.jpg","/img/AWS_02.jpg","/img/Infrastructure_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2433,6 +2606,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_03.jpg","/img/JavaScript_02.jpg","/img/Java_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2447,6 +2621,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_02.jpg","/img/DB_01_.jpg","/img/RPA_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2461,6 +2636,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_03_.jpg","/img/Java_02.jpg","/img/DB_02_.jpg"],
 		"comment":""
 	},
 	{
@@ -2475,6 +2651,7 @@
 		"biography":"",
 		"tag":["#RPA","#JavaScript"],
 		"bookAlready":[],
+		"bookImage":["/img/RPA_03.jpg","/img/JavaScript_02.jpg","/img/JavaScript_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2489,6 +2666,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_03.jpg","/img/AWS_01.jpg","/img/RPA_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2503,6 +2681,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_03.jpg","/img/RPA_01.jpg","/img/RPA_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2517,6 +2696,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_03.jpg","/img/AWS_02.jpg","/img/JavaScript_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2531,6 +2711,7 @@
 		"biography":"",
 		"tag":["#Java","##C"],
 		"bookAlready":[],
+		"bookImage":["/img/Java_03.jpg","/img/C_Sharp_01.jpg","/img/Infrastructure_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2545,6 +2726,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_02.jpg","/img/RPA_03.jpg","/img/Java_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2559,6 +2741,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_01.jpg","/img/Lisp_02.jpg","/img/C_Origin_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2573,6 +2756,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_02.jpg","/img/Lisp_01.jpg","/img/Lisp_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2587,6 +2771,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_02.jpg","/img/AWS_01.jpg","/img/AWS_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2601,6 +2786,7 @@
 		"biography":"",
 		"tag":["##C","#インフラ"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Sharp_01.jpg","/img/Infrastructure_02.jpg","/img/Web_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2615,6 +2801,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_01.jpg","/img/RPA_02.jpg","/img/Java_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2629,6 +2816,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_01.jpg","/img/Web_02.jpg","/img/RPA_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2643,6 +2831,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_01.jpg","/img/RPA_02.jpg","/img/JavaScript_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2657,6 +2846,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_02_.jpg","/img/Java_01.jpg","/img/C_Sharp_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2671,6 +2861,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_02.jpg","/img/Web_01.jpg","/img/Infrastructure_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2685,6 +2876,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_02.jpg","/img/Web_03.jpg","/img/JavaScript_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2699,6 +2891,7 @@
 		"biography":"",
 		"tag":["#インフラ","#C言語"],
 		"bookAlready":[],
+		"bookImage":["/img/Infrastructure_02.jpg","/img/C_Origin_01.jpg","/img/Infrastructure_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2713,6 +2906,7 @@
 		"biography":"",
 		"tag":["#Webアプリケーション","#RPA"],
 		"bookAlready":[],
+		"bookImage":["/img/Web_01.jpg","/img/RPA_01.jpg","/img/JavaScript_01.jpg"],
 		"comment":""
 	},
 	{
@@ -2727,6 +2921,7 @@
 		"biography":"",
 		"tag":["#Lisp","#AWS"],
 		"bookAlready":[],
+		"bookImage":["/img/Lisp_02.jpg","/img/AWS_02.jpg","/img/RPA_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2741,6 +2936,7 @@
 		"biography":"",
 		"tag":["#DB","#Java"],
 		"bookAlready":[],
+		"bookImage":["/img/DB_03_.jpg","/img/Java_02.jpg","/img/Lisp_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2755,6 +2951,7 @@
 		"biography":"",
 		"tag":["#C言語","#DB"],
 		"bookAlready":[],
+		"bookImage":["/img/C_Origin_03.jpg","/img/DB_01_.jpg","/img/Java_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2769,6 +2966,7 @@
 		"biography":"",
 		"tag":["#AWS","#Webアプリケーション"],
 		"bookAlready":[],
+		"bookImage":["/img/AWS_02.jpg","/img/Web_02.jpg","/img/AWS_02.jpg"],
 		"comment":""
 	},
 	{
@@ -2783,6 +2981,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_03.jpg","/img/Lisp_01.jpg","/img/Java_03.jpg"],
 		"comment":""
 	},
 	{
@@ -2797,6 +2996,7 @@
 		"biography":"",
 		"tag":["#JavaScript","#Lisp"],
 		"bookAlready":[],
+		"bookImage":["/img/JavaScript_02.jpg","/img/Lisp_03.jpg","/img/C_Sharp_02.jpg"],
 		"comment":""
 	}
 ]

@@ -8,3 +8,9 @@
 .employeeList {
 	margin: auto;
 }
+
+.bookImage {
+	margin: 0px 2px;
+    display: inline-block; /* ここがポイント */
+    height: 80px;
+}
