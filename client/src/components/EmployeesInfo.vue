@@ -1,20 +1,25 @@
 <!-- トップページの社員情報のうち、左側の氏名、入社年次、所属部署、タグの情報 -->
 <template>
-  <h1 class="titleCss">{{ msg }}</h1>
-
 	<table class="employeeList">
     <template  v-for="value in employees" :key="value.employeeID">
       <tr align="left">
-        <th>{{value.lastName}} {{value.firstName}}</th>  
+        <th style="padding-left: 20px">
+            <router-link to="/employeeDetail" class="tag">
+                {{value.lastName}} {{value.firstName}}
+            </router-link>
+        </th>
         <td>{{" : " + value.department}}</td>
         <td rowspan=2><img class="bookImage" :src="value.bookImage[0]"></td>
         <td rowspan=2><img class="bookImage" :src="value.bookImage[1]"></td>
         <td rowspan=2><img class="bookImage" :src="value.bookImage[2]"></td>
       </tr>
       <tr border="10px">
-        <td align="left" class="employeeEndOnTable">{{value.joinYear + " 年入社"}}</td>
-        <td class="employeeEndOnTable" align="right"><a class="tag">{{value.tag[0]}} {{value.tag[1]}}</a></td>
+        <td align="left" style="padding-left: 20px">{{value.joinYear + " 年入社"}}</td>
+        <td  align="right" style="padding-right: 20px"><a class="tag">{{value.tag[0]}} {{value.tag[1]}}</a></td>
       </tr>
+      <tr style="height: 20px"></tr>
+      <tr class="employeeEndOnTable"></tr>
+      <tr style="height: 20px"></tr>
     </template>
 	</table>
 </template>
@@ -54,7 +59,7 @@ table {
     border-collapse: collapse;
 }
 .tag {
-  color:#F00;
+  color:#1976d2;
   text-align: "right" 
 }
 .employeeList {
