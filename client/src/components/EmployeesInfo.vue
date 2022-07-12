@@ -6,13 +6,14 @@
     <div align="left" v-for="value in employees" :key="value.employeeID">
 		<thread>
       <tr align="left">
-        <th>{{value.lastName}} {{value.firstName}}</th>
-        <th>{{value.department}}</th>
+        <th>{{value.lastName}} {{value.firstName}}</th>  
+        <td>{{" : " + value.department}}</td>
       </tr>
     </thread>
-    <tbody align="left">
-      <tr>
-        <td>{{value.tag[0]}} {{value.tag[1]}}</td>
+    <tbody>
+      <tr border="10px">
+        <td align="left">{{value.joinYear + " 年入社"}}</td>
+        <td class="tag">{{value.tag[0]}} {{value.tag[1]}}</td>
       </tr>
     </tbody>
     </div>
@@ -50,5 +51,9 @@ li {
 }
 a {
   color: #42b983;
+}
+.tag {
+  color:#F00;
+  text-align: "right" 
 }
 </style>
