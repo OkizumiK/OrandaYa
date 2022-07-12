@@ -1,11 +1,9 @@
 <template>
-  <div>
-  <h2>{{ msg }}</h2>
-
-  </div>
+  <EmployeesInfo></EmployeesInfo>
 </template>
 
 <script>
+import EmployeesInfo from '../components/EmployeesInfo.vue'
 export default {
   name: 'EmployeeList',
     data () {
@@ -13,6 +11,9 @@ export default {
         msg: 'トップページ'
       }
     },
+    components: {
+    EmployeesInfo
+    }
 
 }
 </script>
