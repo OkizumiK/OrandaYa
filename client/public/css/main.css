@@ -14,3 +14,8 @@
     display: inline-block; /* ここがポイント */
     height: 80px;
 }
+
+.filterChkbox {
+    margin-left: 3px;
+    margin-right: 3px;
+}

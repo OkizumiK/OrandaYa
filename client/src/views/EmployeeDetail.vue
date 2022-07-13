@@ -4,13 +4,17 @@
         <tr align="left">
               <th style="padding-left: 22px;width: 90px">{{ targetEmployee.lastName }} {{ targetEmployee.firstName }}</th>
               <td>: {{ targetEmployee.department }}</td>
-              <td rowspan=2 style="width: 72px"><img class="bookImage" src="../../public/img/Web_03.jpg"></td>
-              <td rowspan=2 style="width: 72px"><img class="bookImage" src="../../public/img/RPA_03.jpg"></td>
-              <td rowspan=2 style="width: 72px"><img class="bookImage" src="../../public/img/Lisp_02.jpg"></td>
+              <td rowspan=2 style="width: 72px"><img class="bookImage" :src="targetBookImage[0]"></td>
+              <td rowspan=2 style="width: 72px"><img class="bookImage" :src="targetBookImage[1]"></td>
+              <td rowspan=2 style="width: 72px"><img class="bookImage" :src="targetBookImage[2]"></td>
             </tr>
             <tr border="10px">
-              <td align="left" style="padding-left: 22px">{{ targetEmployee.joinYear }} 年入社	</td>
-              <td  align="right" style="padding-right: 20px"><a class="tag">#Webアプリケーション #RPA</a></td>
+              <td align="left" style="padding-left: 22px">{{ targetEmployee.joinYear }} 年入社</td>
+              <td align="right" style="padding-right: 20px">
+                <a class="filterChkbox" v-for="tags in targetTags" :key="tags">
+                  <input type=checkbox name="filteringTags" :value="tags">{{tags}}
+                </a>
+              </td>
             </tr>
             <tr style="height: 20px"></tr>
             <tr class="employeeEndOnTable"></tr>
@@ -109,7 +113,9 @@ export default {
       return {
         msg: '社員詳細',
         employees: employees,
-        targetEmployee: {}
+        targetEmployee: {},
+        targetTags: [],
+        targetBookImage: []
       }
     },
       beforeRouteEnter(to, from, next) {
@@ -124,6 +130,8 @@ export default {
           initialize() {
           const target = employees.find((v) => v.employeeID === this.$route.params.value);
           this.targetEmployee = target;
+          this.targetTags = target.tag;
+          this.targetBookImage = target.bookImage;
           // console.log(targetUser);
             // console.log(JSON.stringify(employees));
           },
