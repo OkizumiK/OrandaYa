@@ -4,7 +4,7 @@
     <template  v-for="value in employees" :key="value.employeeID">
       <tr align="left">
         <th style="padding-left: 20px">
-            <router-link to="/employeeDetail" class="tag">
+            <router-link :to="{ name: 'EmployeeDetail', params: {value: value.employeeID}}" class="tag">
                 {{value.lastName}} {{value.firstName}}
             </router-link>
         </th>
