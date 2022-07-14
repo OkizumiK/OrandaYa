@@ -44,24 +44,7 @@ export default {
       }
     },
     methods: {
-        window:onload = function(){
-            employees.forEach(function( employee ) {
-                employee.book.forEach( function( bookID ){
-                if(bookID === ""){
-                    employee.bookImageNew3.push("");
-                }else{
-                    const targetBook = books.find((b) => b.bookID === bookID);
-                    employee.bookImageNew3.push(targetBook.bookimage);
-                    }
-                });
-                employee.tagCount.forEach( function( tagItem ){
-                    var result = books.filter(function(value) {
-                      return value.tag === tagItem.name;
-                    });
-                   tagItem["count"] = result.length;
-                });
-            });
-        }
+
     },
 
 }
