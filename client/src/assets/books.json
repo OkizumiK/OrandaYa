@@ -1,0 +1,58 @@
+[
+	{
+		"bookID":"978-4774181882",
+		"tag":"#Webアプリケーション",
+		"bookimage":"/img/Web_03.jpg",
+		"bookTitle":"Webサーバを作りながら学ぶ 基礎からのWebアプリケーション開発入門 (Software Design plus)",
+		"bookAuther":"前橋 和弥",
+		"bookDate":"2016/06/07"
+	},
+	{
+		"bookID":"978-4844378730",
+		"tag":"#RPA",
+		"bookimage":"/img/RPA_03.jpg",
+		"bookTitle":"いまさらRPA",
+		"bookAuther":"カナタニチアキ",
+		"bookDate":"2020/09/25"
+	},
+	{
+		"bookID":"978-4781905372",
+		"tag":"#Lisp",
+		"bookimage":"/img/Lisp_02.jpg",
+		"bookTitle":"これがLISPだ!",
+		"bookAuther":"玉井 浩 (翻訳), アンダーソン",
+		"bookDate":"1989/02/01"
+	},
+	{
+		"bookID":"978-4798167077",
+		"tag":"#Java",
+		"bookimage":"/img/Java_03.jpg",
+		"bookTitle":"Java 第3版 実践編 アプリケーション作りの基本",
+		"bookAuther":"三谷 純",
+		"bookDate":"2021/01/28"
+	},
+	{
+		"bookID":"978-4798157696",
+		"tag":"#DB",
+		"bookimage":"/img/DB_01_.jpg",
+		"bookTitle":"絵で見てわかるOracleの仕組み 新装版",
+		"bookAuther":"小田 圭二",
+		"bookDate":"2019/03/11"
+	},
+	{
+		"bookID":"978-4295007807",
+		"tag":"#Java",
+		"bookimage":"/img/Java_02.jpg",
+		"bookTitle":"スッキリわかるJava入門 第3版 (スッキリわかる入門シリーズ)",
+		"bookAuther":"中山清喬  (著), 国本大悟  (著)",
+		"bookDate":"2019/11/15"
+	},
+	{
+		"bookID":"978-4295012559",
+		"tag":"#DB",
+		"bookimage":"/img/DB_02_.jpg",
+		"bookTitle":"1週間でMySQLの基礎が学べる本",
+		"bookAuther":"亀田 健司",
+		"bookDate":"2021/09/14"
+	}
+]
