@@ -1,6 +1,11 @@
 <!-- トップページの社員情報のうち、左側の氏名、入社年次、所属部署、タグの情報 -->
 <template>
 	<table class="employeeList">
+	<tr>
+	<th colspan=2 align="center">社員情報</th>
+	<th colspan=3 align="center">最近の更新</th>
+	</tr>
+	<tr style="height: 20px"></tr>
     <template  v-for="value in employees" :key="value.employeeID">
       <tr align="left">
         <th style="padding-left: 20px">
@@ -8,14 +13,16 @@
                 {{value.lastName}} {{value.firstName}}
             </router-link>
         </th>
-        <td>{{" : " + value.department}}</td>
-        <td rowspan=2><img class="bookImage" :src="value.bookImage[0]"></td>
-        <td rowspan=2><img class="bookImage" :src="value.bookImage[1]"></td>
-        <td rowspan=2><img class="bookImage" :src="value.bookImage[2]"></td>
+        <td></td>
+        <td rowspan=2><img v-if="value.bookImageNew3.length > 0" class="bookImage" :src="value.bookImageNew3[0]"></td>
+        <td rowspan=2><img v-if="value.bookImageNew3.length > 1" class="bookImage" :src="value.bookImageNew3[1]"></td>
+        <td rowspan=2><img v-if="value.bookImageNew3.length > 2" class="bookImage" :src="value.bookImageNew3[2]"></td>
       </tr>
       <tr border="10px">
         <td align="left" style="padding-left: 20px">{{value.joinYear + " 年入社"}}</td>
-        <td  align="right" style="padding-right: 20px"><a class="tag">{{value.tag[0]}} {{value.tag[1]}}</a></td>
+        <td align="right" style="padding-right: 20px; width: 350px">
+        <a class="tag" v-for="tag in value.tagCount" :key="tag.name" >{{tag.name}}({{tag.count}})  </a>
+      </td>
       </tr>
       <tr style="height: 20px"></tr>
       <tr class="employeeEndOnTable"></tr>
@@ -26,14 +33,35 @@
 
 <script>
 import employees from '../assets/employees.json'
+import books from '../assets/books.json'
 export default {
-  name: 'HelloWorld',
+  name: 'EmployeesInfo',
     data () {
       return {
-        msg: '社内図書館',
-        test: 'test',
-        employees: employees
+        msg: '',
+        employees: employees,
+        books: books
       }
+    },
+    methods: {
+        window:onload = function(){
+            employees.forEach(function( employee ) {
+                employee.book.forEach( function( bookID ){
+                if(bookID === ""){
+                    employee.bookImageNew3.push("");
+                }else{
+                    const targetBook = books.find((b) => b.bookID === bookID);
+                    employee.bookImageNew3.push(targetBook.bookimage);
+                    }
+                });
+                employee.tagCount.forEach( function( tagItem ){
+                    var result = books.filter(function(value) {
+                      return value.tag === tagItem.name;
+                    });
+                   tagItem["count"] = result.length;
+                });
+            });
+        }
     },
 
 }
