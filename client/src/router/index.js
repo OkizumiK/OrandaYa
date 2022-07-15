@@ -20,19 +20,14 @@ const routes = [
         });
         var c=0;
         for(var i = 0;i < employee.tagCount.length; i++){
-//        console.log("i: " + employee.tagCount[i]["name"]+employee.tagCount[i]["count"])
-//        console.log("employee.book.length: "+employee.book.length)
-//        console.log("books.length: "+books.length)
             for(var j = 0; j < books.length; j++){
             for(var k = 0; k < employee.book.length; k++){
 
                     if(employee.tagCount[i]["name"] === books[j].tag && employee.book[k] === books[j].bookID){
                     c++;
-                    console.log("c: "+c)
                     }
             }
             }
-            console.log(c)
            employee.tagCount[i]["count"] = c;
            c = 0;
         }
