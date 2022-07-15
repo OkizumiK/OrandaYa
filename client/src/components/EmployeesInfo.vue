@@ -13,7 +13,7 @@
                 {{value.lastName}} {{value.firstName}}
             </router-link>
         </th>
-        <td></td>
+        <td>: {{value.department}}</td>
         <td rowspan=2><img v-if="value.bookImageNew3.length > 0" class="bookImage" :src="value.bookImageNew3[0]"></td>
         <td rowspan=2><img v-if="value.bookImageNew3.length > 1" class="bookImage" :src="value.bookImageNew3[1]"></td>
         <td rowspan=2><img v-if="value.bookImageNew3.length > 2" class="bookImage" :src="value.bookImageNew3[2]"></td>
@@ -36,17 +36,13 @@ import employees from '../assets/employees.json'
 import books from '../assets/books.json'
 export default {
   name: 'EmployeesInfo',
-    data () {
-      return {
+  data () {
+    return {
         msg: '',
         employees: employees,
         books: books
-      }
-    },
-    methods: {
-
-    },
-
+    }
+  },
 }
 </script>
 

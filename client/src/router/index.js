@@ -9,7 +9,7 @@ const routes = [
     name: 'EmployeeList',
     component: EmployeeList,
     beforeEnter: (to, from, next) => {
-    employees.forEach(function( employee ) {
+        employees.forEach(function( employee ) {
         employee.book.forEach( function( bookID ){
             if(bookID === ""){
                 employee.bookImageNew3.push("");
@@ -18,12 +18,31 @@ const routes = [
                 employee.bookImageNew3.push(targetBook.bookimage);
             }
         });
-        employee.tagCount.forEach( function( tagItem ){
-            var result = books.filter(function(value) {
-              return value.tag === tagItem.name;
-            });
-           tagItem["count"] = result.length;
-        });
+        var c=0;
+        for(var i = 0;i < employee.tagCount.length; i++){
+//        console.log("i: " + employee.tagCount[i]["name"]+employee.tagCount[i]["count"])
+//        console.log("employee.book.length: "+employee.book.length)
+//        console.log("books.length: "+books.length)
+            for(var j = 0; j < books.length; j++){
+            for(var k = 0; k < employee.book.length; k++){
+
+                    if(employee.tagCount[i]["name"] === books[j].tag && employee.book[k] === books[j].bookID){
+                    c++;
+                    console.log("c: "+c)
+                    }
+            }
+            }
+            console.log(c)
+           employee.tagCount[i]["count"] = c;
+           c = 0;
+        }
+
+//        employee.tagCount.forEach( function( tagItem ){
+//            var result = books.filter(function(value) {
+//              return value.tag === tagItem.name;
+//            });
+//           tagItem["count"] = result.length;
+//        });
         employee.tagCount.sort(function(a, b) {
             return b.count - a.count;
         });
