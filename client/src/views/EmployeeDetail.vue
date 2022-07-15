@@ -9,12 +9,12 @@
             </tr>
             <tr border="10px">
               <td class="joinYearArea">{{targetEmployee.joinYear}} 年入社</td>
-              <td class="tag">
-                <label for="allTag"><input type=checkbox name="allTag" id="allTag" v-model="allTagFlag">All</label>
-                <a class="tagChkbox tag" v-for="tag in tagsInfo" :key="tag.name">
+              <td class="tag" style="text-align:left; margin-left:6px">
+                <label for="allTag"><input type=checkbox name="allTag" id="allTag" v-model="allTagFlag">All</label><br>
+                <a class="tag" v-for="tag in tagsInfo" :key="tag.name">
                   <label :for="tag.name">
                   <input type=checkbox name="relatedTags" :id="tag.name" :value="tag.name" v-model="filteredTags">{{tag.name}}({{tag.count}})
-                  </label>
+                  </label><br>
                 </a>
                 <!--
                 <a class="tagChkbox" v-for="tags in targetTags" :key="tags">
@@ -243,6 +243,12 @@ table {
 }
 .employeeEndOnTable {
   border-bottom: 1px solid black;
+}
+.joinYearArea {
+    text-align: left;
+    vertical-align: top;
+    padding-left: 22px;
+    padding-top: 2ex;
 }
 
 .bookImage {
